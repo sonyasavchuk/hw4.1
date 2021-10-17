@@ -1,0 +1,10 @@
+D:\учеба\прога\hw4.1\hw4.1\bin\Debug\hw4.1.exe.config
+D:\учеба\прога\hw4.1\hw4.1\bin\Debug\hw4.1.exe
+D:\учеба\прога\hw4.1\hw4.1\bin\Debug\hw4.1.pdb
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4.1.csprojAssemblyReference.cache
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4._1.Form1.resources
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4._1.Properties.Resources.resources
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4.1.csproj.GenerateResource.cache
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4.1.csproj.CoreCompileInputs.cache
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4.1.exe
+D:\учеба\прога\hw4.1\hw4.1\obj\Debug\hw4.1.pdb
